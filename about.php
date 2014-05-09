@@ -11,8 +11,8 @@ You should have received a copy of the GNU General Public License along with Gar
  */
 $ThemeInfo['DarkPink'] = array(
    'Name' => 'DarkPink',
-   'Description' => "A Dark Pink design for 2.1, It will also work with 2.0 with a few extra mods. This theme is perfect for fashion, photography and beauty oriented forums. ",
-   'Version' => '1.1',
+   'Description' => "A DarkxPink design for 2.1",
+   'Version' => '1.0',
    'Author' => "VrijVlinder",
    'AuthorEmail' => 'contact@vrijvlinder.com',
    'AuthorUrl' => 'http://vrijvlinder.com'
